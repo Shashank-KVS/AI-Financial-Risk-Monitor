@@ -21,9 +21,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual Environment
-venv/
-ENV/
 
 # IDEs
 .idea/
@@ -31,18 +28,3 @@ ENV/
 *.swp
 *.swo
 
-# Logs
-*.log
-logs/*.log
-
-# Local development
-.env
-.env.local
-
-# Model files
-*.joblib
-*.pkl
-*.h5
-
-# Data files
-data/*.csv
