@@ -44,7 +44,7 @@ The system is built using a modern tech stack:
 ## Setup
 1. Clone the repository
 
-bash
+```bash
 git clone https://github.com/YOUR_USERNAME/ai-financial-risk-monitor.git
 cd ai-financial-risk-monitor
 ```
