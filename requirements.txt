@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+yfinance
+tenacity
+pandas
+numpy
+scikit-learn
+transformers
+torch
+joblib
+uvicorn[standard]
+streamlit
+streamlit-autorefresh
+plotly>=5.0.0
