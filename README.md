@@ -113,4 +113,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by modern fintech solutions and risk management systems
 
 ---
-**Note**: To add the dashboard preview image, create an `assets` directory and save your dashboard screenshot as `dashboard_preview.png` in it.
