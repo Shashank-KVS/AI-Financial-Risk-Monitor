@@ -1,0 +1,498 @@
+2025-02-16 22:58:45,249 - ERROR - Error in model training: 'Volatility'
+2025-02-16 23:02:06,082 - INFO - Initializing HybridFraudDetector
+2025-02-16 23:02:13,416 - INFO - Starting training process
+2025-02-16 23:02:13,417 - INFO - Preparing features for model
+2025-02-16 23:11:54,697 - INFO - Initializing HybridFraudDetector
+2025-02-16 23:11:55,228 - INFO - Starting training process
+2025-02-16 23:11:55,228 - INFO - Preparing features for model
+2025-02-16 23:16:38,255 - INFO - Initializing HybridFraudDetector
+2025-02-16 23:16:38,655 - INFO - Starting training process
+2025-02-16 23:16:38,655 - INFO - Preparing features for model
+2025-02-16 23:25:23,645 - INFO - Training complete. Evaluation Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      7446
+           1       1.00      1.00      1.00       378
+
+    accuracy                           1.00      7824
+   macro avg       1.00      1.00      1.00      7824
+weighted avg       1.00      1.00      1.00      7824
+
+2025-02-16 23:25:23,806 - INFO - Preparing features for model
+2025-02-16 23:25:23,955 - INFO - Predictions for first 5 samples: [1 1 0 0 0]
+2025-02-16 23:42:22,814 - INFO - Initializing HybridFraudDetector
+2025-02-16 23:42:23,253 - INFO - Starting training process
+2025-02-16 23:42:23,253 - INFO - Preparing features for model
+2025-02-16 23:50:41,011 - ERROR - Error in model training: Input X contains NaN.
+LocalOutlierFactor does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2025-02-17 20:10:44,669 - INFO - Initializing HybridFraudDetector
+2025-02-17 20:10:45,080 - INFO - Starting training process
+2025-02-17 20:10:45,081 - INFO - Preparing features for model
+2025-02-17 20:18:54,505 - ERROR - Error in model training: Input X contains NaN.
+LocalOutlierFactor does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2025-02-19 20:56:08,575 - INFO - Initial null value counts:
+Date                0
+Open                0
+High                0
+Low                 0
+Close               0
+Volume              0
+Dividends           0
+Stock Splits        0
+Ticker              0
+Daily Return    20944
+Volatility      20944
+2025-02-19 20:56:08,579 - INFO - Null value counts after computation:
+Date                0
+Open                0
+High                0
+Low                 0
+Close               0
+Volume              0
+Dividends           0
+Stock Splits        0
+Ticker              0
+Daily Return    20944
+Volatility      20944
+2025-02-19 20:56:08,582 - INFO - Final null value counts after cleaning:
+Date            0
+Open            0
+High            0
+Low             0
+Close           0
+Volume          0
+Dividends       0
+Stock Splits    0
+Ticker          0
+Daily Return    0
+Volatility      0
+2025-02-19 20:56:08,584 - INFO - Initializing HybridFraudDetector
+2025-02-19 20:56:09,068 - INFO - Starting training process
+2025-02-19 20:56:09,068 - INFO - Preparing features for model
+2025-02-19 20:57:52,499 - INFO - Training complete. Evaluation Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      1469
+           1       1.00      1.00      1.00        76
+
+    accuracy                           1.00      1545
+   macro avg       1.00      1.00      1.00      1545
+weighted avg       1.00      1.00      1.00      1545
+
+2025-02-19 20:57:52,541 - INFO - Preparing features for model
+2025-02-19 20:57:52,659 - INFO - Predictions for first 5 samples: [1 0 0 0 0]
+2025-02-19 21:01:33,951 - INFO - Initial null value counts:
+Date                0
+Open                0
+High                0
+Low                 0
+Close               0
+Volume              0
+Dividends           0
+Stock Splits        0
+Ticker              0
+Daily Return    20944
+Volatility      20944
+2025-02-19 21:01:33,954 - INFO - Null value counts after computation:
+Date                0
+Open                0
+High                0
+Low                 0
+Close               0
+Volume              0
+Dividends           0
+Stock Splits        0
+Ticker              0
+Daily Return    20944
+Volatility      20944
+2025-02-19 21:01:33,957 - INFO - Final null value counts after cleaning:
+Date            0
+Open            0
+High            0
+Low             0
+Close           0
+Volume          0
+Dividends       0
+Stock Splits    0
+Ticker          0
+Daily Return    0
+Volatility      0
+2025-02-19 21:01:33,960 - INFO - 
+Class distribution:
+Label
+0    4892
+1     258
+2025-02-19 21:01:33,960 - INFO - Initializing HybridFraudDetector
+2025-02-19 21:01:34,330 - ERROR - Error in model training: LocalOutlierFactor.__init__() got an unexpected keyword argument 'random_state'
+2025-02-19 21:10:12,938 - INFO - Initial null value counts:
+Date                0
+Open                0
+High                0
+Low                 0
+Close               0
+Volume              0
+Dividends           0
+Stock Splits        0
+Ticker              0
+Daily Return    20944
+Volatility      20944
+2025-02-19 21:10:12,941 - INFO - Null value counts after computation:
+Date                0
+Open                0
+High                0
+Low                 0
+Close               0
+Volume              0
+Dividends           0
+Stock Splits        0
+Ticker              0
+Daily Return    20944
+Volatility      20944
+2025-02-19 21:10:12,944 - INFO - Final null value counts after cleaning:
+Date            0
+Open            0
+High            0
+Low             0
+Close           0
+Volume          0
+Dividends       0
+Stock Splits    0
+Ticker          0
+Daily Return    0
+Volatility      0
+2025-02-19 21:10:12,947 - INFO - 
+Class distribution:
+Label
+0    4892
+1     258
+2025-02-19 21:10:12,947 - INFO - Initializing HybridFraudDetector
+2025-02-19 21:10:13,344 - INFO - Starting training process
+2025-02-19 21:10:13,344 - INFO - Preparing features for model
+2025-02-19 21:11:53,327 - INFO - Starting cross-validation
+2025-02-19 21:11:54,541 - INFO - 
+Fold 1 Results:
+2025-02-19 21:11:54,542 - INFO - AUC Score: 1.0000
+2025-02-19 21:11:54,542 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       978
+           1       1.00      0.98      0.99        52
+
+    accuracy                           1.00      1030
+   macro avg       1.00      0.99      0.99      1030
+weighted avg       1.00      1.00      1.00      1030
+
+2025-02-19 21:11:54,557 - INFO - 
+Top 10 Most Important Features:
+2025-02-19 21:11:54,564 - INFO -               feature  importance
+1    financial_feat_1    0.805098
+770         lof_score    0.133958
+0    financial_feat_0    0.060944
+3         text_feat_1    0.000000
+4         text_feat_2    0.000000
+509     text_feat_507    0.000000
+510     text_feat_508    0.000000
+511     text_feat_509    0.000000
+512     text_feat_510    0.000000
+513     text_feat_511    0.000000
+2025-02-19 21:11:55,558 - INFO - 
+Fold 2 Results:
+2025-02-19 21:11:55,558 - INFO - AUC Score: 1.0000
+2025-02-19 21:11:55,558 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       978
+           1       1.00      1.00      1.00        52
+
+    accuracy                           1.00      1030
+   macro avg       1.00      1.00      1.00      1030
+weighted avg       1.00      1.00      1.00      1030
+
+2025-02-19 21:11:56,567 - INFO - 
+Fold 3 Results:
+2025-02-19 21:11:56,567 - INFO - AUC Score: 1.0000
+2025-02-19 21:11:56,567 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       978
+           1       1.00      1.00      1.00        52
+
+    accuracy                           1.00      1030
+   macro avg       1.00      1.00      1.00      1030
+weighted avg       1.00      1.00      1.00      1030
+
+2025-02-19 21:11:57,478 - INFO - 
+Fold 4 Results:
+2025-02-19 21:11:57,478 - INFO - AUC Score: 1.0000
+2025-02-19 21:11:57,478 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       979
+           1       0.98      1.00      0.99        51
+
+    accuracy                           1.00      1030
+   macro avg       0.99      1.00      0.99      1030
+weighted avg       1.00      1.00      1.00      1030
+
+2025-02-19 21:11:58,379 - INFO - 
+Fold 5 Results:
+2025-02-19 21:11:58,379 - INFO - AUC Score: 1.0000
+2025-02-19 21:11:58,379 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       979
+           1       1.00      1.00      1.00        51
+
+    accuracy                           1.00      1030
+   macro avg       1.00      1.00      1.00      1030
+weighted avg       1.00      1.00      1.00      1030
+
+2025-02-19 21:11:58,380 - INFO - 
+Cross-validation AUC scores: [np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0)]
+2025-02-19 21:11:58,380 - INFO - Mean AUC: 1.0000 (+/- 0.0000)
+2025-02-19 21:11:59,585 - INFO - Preparing features for model
+2025-02-19 21:12:01,620 - INFO - 
+Predictions distribution on test set: [94  6]
+2025-02-19 21:24:15,531 - INFO - Initial null value counts:
+Date                0
+Open                0
+High                0
+Low                 0
+Close               0
+Volume              0
+Dividends           0
+Stock Splits        0
+Ticker              0
+Daily Return    20944
+Volatility      20944
+2025-02-19 21:24:15,535 - INFO - Null value counts after computation:
+Date                0
+Open                0
+High                0
+Low                 0
+Close               0
+Volume              0
+Dividends           0
+Stock Splits        0
+Ticker              0
+Daily Return    20944
+Volatility      20944
+2025-02-19 21:24:15,539 - INFO - Final null value counts after cleaning:
+Date            0
+Open            0
+High            0
+Low             0
+Close           0
+Volume          0
+Dividends       0
+Stock Splits    0
+Ticker          0
+Daily Return    0
+Volatility      0
+2025-02-19 21:24:15,543 - INFO - 
+Class distribution:
+Label
+0    4892
+1     258
+2025-02-19 21:24:15,543 - INFO - Initializing HybridFraudDetector
+2025-02-19 21:24:15,993 - INFO - Starting training process
+2025-02-19 21:24:15,993 - INFO - Preparing features for model
+2025-02-19 21:26:30,927 - INFO - Starting cross-validation
+2025-02-19 21:26:32,075 - INFO - 
+Fold 1 Results:
+2025-02-19 21:26:32,075 - INFO - AUC Score: 1.0000
+2025-02-19 21:26:32,075 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       978
+           1       1.00      0.98      0.99        52
+
+    accuracy                           1.00      1030
+   macro avg       1.00      0.99      0.99      1030
+weighted avg       1.00      1.00      1.00      1030
+
+2025-02-19 21:26:32,086 - INFO - 
+Top 10 Most Important Features:
+2025-02-19 21:26:32,090 - INFO -               feature  importance
+1    financial_feat_1    0.805098
+770         lof_score    0.133958
+0    financial_feat_0    0.060944
+3         text_feat_1    0.000000
+4         text_feat_2    0.000000
+509     text_feat_507    0.000000
+510     text_feat_508    0.000000
+511     text_feat_509    0.000000
+512     text_feat_510    0.000000
+513     text_feat_511    0.000000
+2025-02-19 21:26:33,068 - INFO - 
+Fold 2 Results:
+2025-02-19 21:26:33,069 - INFO - AUC Score: 1.0000
+2025-02-19 21:26:33,069 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       978
+           1       1.00      1.00      1.00        52
+
+    accuracy                           1.00      1030
+   macro avg       1.00      1.00      1.00      1030
+weighted avg       1.00      1.00      1.00      1030
+
+2025-02-19 21:26:34,105 - INFO - 
+Fold 3 Results:
+2025-02-19 21:26:34,105 - INFO - AUC Score: 1.0000
+2025-02-19 21:26:34,106 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       978
+           1       1.00      1.00      1.00        52
+
+    accuracy                           1.00      1030
+   macro avg       1.00      1.00      1.00      1030
+weighted avg       1.00      1.00      1.00      1030
+
+2025-02-19 21:26:35,100 - INFO - 
+Fold 4 Results:
+2025-02-19 21:26:35,100 - INFO - AUC Score: 1.0000
+2025-02-19 21:26:35,100 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       979
+           1       0.98      1.00      0.99        51
+
+    accuracy                           1.00      1030
+   macro avg       0.99      1.00      0.99      1030
+weighted avg       1.00      1.00      1.00      1030
+
+2025-02-19 21:26:36,021 - INFO - 
+Fold 5 Results:
+2025-02-19 21:26:36,021 - INFO - AUC Score: 1.0000
+2025-02-19 21:26:36,021 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       979
+           1       1.00      1.00      1.00        51
+
+    accuracy                           1.00      1030
+   macro avg       1.00      1.00      1.00      1030
+weighted avg       1.00      1.00      1.00      1030
+
+2025-02-19 21:26:36,021 - INFO - 
+Cross-validation AUC scores: [np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0)]
+2025-02-19 21:26:36,021 - INFO - Mean AUC: 1.0000 (+/- 0.0000)
+2025-02-19 21:26:37,139 - INFO - Preparing features for model
+2025-02-19 21:26:39,245 - INFO - 
+Predictions distribution on test set: [94  6]
+2025-02-19 21:48:28,886 - INFO - Initial null value counts:
+Date               0
+Open               0
+High               0
+Low                0
+Close              0
+Volume             0
+Dividends          0
+Stock Splits       0
+Ticker             0
+Daily Return       0
+Volatility         0
+Price_Range        0
+Price_Range_Pct    0
+Volume_Change      0
+2025-02-19 21:48:28,890 - INFO - Null value counts after computation:
+Date               0
+Open               0
+High               0
+Low                0
+Close              0
+Volume             0
+Dividends          0
+Stock Splits       0
+Ticker             0
+Daily Return       0
+Volatility         0
+Price_Range        0
+Price_Range_Pct    0
+Volume_Change      0
+2025-02-19 21:48:28,894 - INFO - Final null value counts after cleaning:
+Date               0
+Open               0
+High               0
+Low                0
+Close              0
+Volume             0
+Dividends          0
+Stock Splits       0
+Ticker             0
+Daily Return       0
+Volatility         0
+Price_Range        0
+Price_Range_Pct    0
+Volume_Change      0
+2025-02-19 21:48:28,899 - INFO - 
+Class distribution:
+Label
+0    24801
+1     1306
+2025-02-19 21:48:28,899 - INFO - Initializing HybridFraudDetector
+2025-02-19 21:48:29,431 - INFO - Starting training process
+2025-02-19 21:48:29,431 - INFO - Preparing features for model
+2025-02-19 21:48:29,431 - ERROR - Error in model training: "['Log Return', 'Volatility_7d', 'Volatility_14d', 'Volatility_30d', 'Volatility_7d_Ann', 'Volatility_14d_Ann', 'Volatility_30d_Ann'] not in index"
+2025-02-19 21:55:52,584 - INFO - Loading data from CSV
+2025-02-19 21:55:52,895 - INFO - Initializing HybridFraudDetector
+2025-02-19 21:55:53,265 - INFO - Starting training process
+2025-02-19 21:55:53,279 - INFO - Data shape after cleaning: (26107, 21)
+2025-02-19 21:55:53,279 - INFO - Preparing features for model
+2025-02-19 21:55:53,281 - INFO - Feature array shape: (26107, 12)
+2025-02-19 21:55:53,281 - INFO - Number of features used: 12
+2025-02-19 21:55:53,281 - INFO - Features included: Daily Return, Volatility, Price_Range, Price_Range_Pct, Volume_Change, Log Return, Volatility_7d, Volatility_7d_Ann, Volatility_14d, Volatility_14d_Ann, Volatility_30d, Volatility_30d_Ann
+2025-02-19 21:55:53,283 - INFO - Training LOF model
+2025-02-19 21:55:53,283 - ERROR - Error in model training: Input X contains infinity or a value too large for dtype('float64').
+2025-02-19 21:55:53,283 - ERROR - Error in main execution: Input X contains infinity or a value too large for dtype('float64').
+2025-02-19 21:57:33,192 - INFO - Loading data from CSV
+2025-02-19 21:57:33,506 - INFO - Initializing HybridFraudDetector
+2025-02-19 21:57:33,905 - INFO - Starting training process
+2025-02-19 21:57:33,928 - INFO - Data shape after cleaning: (26107, 21)
+2025-02-19 21:57:33,928 - INFO - Preparing features for model
+2025-02-19 21:57:33,933 - INFO - Feature array shape: (26107, 12)
+2025-02-19 21:57:33,933 - INFO - Number of features used: 12
+2025-02-19 21:57:33,933 - INFO - Features included: Daily Return, Volatility, Price_Range, Price_Range_Pct, Volume_Change, Log Return, Volatility_7d, Volatility_7d_Ann, Volatility_14d, Volatility_14d_Ann, Volatility_30d, Volatility_30d_Ann
+2025-02-19 21:57:33,952 - INFO - Feature stats before scaling:
+       Daily Return    Volatility   Price_Range  Price_Range_Pct  Volume_Change    Log Return  Volatility_7d  Volatility_7d_Ann  Volatility_14d  Volatility_14d_Ann  Volatility_30d  Volatility_30d_Ann
+count  26107.000000  26107.000000  26107.000000     26107.000000   26107.000000  26107.000000   26107.000000       26107.000000    26107.000000        26107.000000    26107.000000        26107.000000
+mean       0.001093      0.020107      0.851077         0.026710       0.101000      0.000805       0.020107           0.319196        0.020807            0.330299        0.021330            0.338601
+std        0.023843      0.013046      1.659045         0.018277       1.044904      0.024056       0.013046           0.207106        0.011822            0.187676        0.010784            0.171197
+min       -0.518692      0.001171      0.000000         0.000000      -1.000000     -0.731248       0.001171           0.018593        0.002677            0.042493        0.004165            0.066121
+25%       -0.010126      0.011412      0.019230         0.014655      -0.210567     -0.010178       0.011412           0.181165        0.012878            0.204437        0.013811            0.219242
+50%        0.000391      0.017075      0.250232         0.022057      -0.017705      0.000391       0.017075           0.271052        0.018167            0.288395        0.019320            0.306698
+75%        0.012174      0.025268      0.718705         0.033369       0.247785      0.012100       0.025268           0.401113        0.025777            0.409191        0.026054            0.413602
+max        0.332281      0.204014     24.326336         0.408839     126.435484      0.286893       0.204014           3.238627        0.148951            2.364523        0.107681            1.709386
+2025-02-19 21:57:33,962 - INFO - Training LOF model
+2025-02-19 21:57:35,408 - INFO - Training Random Forest model
+2025-02-19 21:57:40,987 - INFO - Model Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      4621
+           1       1.00      1.00      1.00       601
+
+    accuracy                           1.00      5222
+   macro avg       1.00      1.00      1.00      5222
+weighted avg       1.00      1.00      1.00      5222
+
+2025-02-19 21:57:41,069 - INFO - Models saved successfully
+2025-02-19 21:57:41,069 - INFO - Training completed successfully
+2025-02-19 21:57:41,072 - INFO - Preparing features for model
+2025-02-19 21:57:41,073 - INFO - Feature array shape: (100, 12)
+2025-02-19 21:57:41,073 - INFO - Number of features used: 12
+2025-02-19 21:57:41,073 - INFO - Features included: Daily Return, Volatility, Price_Range, Price_Range_Pct, Volume_Change, Log Return, Volatility_7d, Volatility_7d_Ann, Volatility_14d, Volatility_14d_Ann, Volatility_30d, Volatility_30d_Ann
+2025-02-19 21:57:41,082 - INFO - Feature stats before scaling:
+       Daily Return  Volatility  Price_Range  Price_Range_Pct  Volume_Change  Log Return  Volatility_7d  Volatility_7d_Ann  Volatility_14d  Volatility_14d_Ann  Volatility_30d  Volatility_30d_Ann
+count    100.000000  100.000000   100.000000       100.000000     100.000000  100.000000     100.000000         100.000000      100.000000          100.000000      100.000000          100.000000
+mean      -0.000383    0.033351     0.000549         0.005812       0.140641   -0.001026       0.033351           0.529427        0.036635            0.581570        0.037675            0.598072
+std        0.036090    0.010548     0.000194         0.002204       0.755415    0.035996       0.010548           0.167450        0.007659            0.121578        0.007502            0.119091
+min       -0.078044    0.011311     0.000429         0.003472      -0.839047   -0.081258       0.011311           0.179551        0.015010            0.238276        0.015010            0.238276
+25%       -0.024017    0.026715     0.000429         0.004381      -0.335262   -0.024310       0.026715           0.424088        0.032718            0.519383        0.033932            0.538656
+50%       -0.004548    0.033606     0.000429         0.004793       0.010299   -0.004559       0.033606           0.533477        0.035426            0.562372        0.036501            0.579428
+75%        0.024569    0.040079     0.000858         0.007648       0.330740    0.024272       0.040079           0.636236        0.040303            0.639783        0.040604            0.644572
+max        0.092309    0.057583     0.000859         0.011560       4.117845    0.088294       0.057583           0.914107        0.057583            0.914107        0.057583            0.914107
+2025-02-19 21:57:41,099 - INFO - Sample predictions shape: (100,)
+2025-02-19 21:57:41,099 - INFO - Prediction distribution: [60 40]
+2025-02-19 21:57:41,099 - INFO - Model training and testing completed successfully

@@ -1,0 +1,489 @@
+2025-02-16 22:42:40,237 - INFO - Fetching data for AAPL
+2025-02-16 22:42:40,237 - INFO - Fetching data for MSFT
+2025-02-16 22:42:40,237 - INFO - Fetching data for GOOGL
+2025-02-16 22:42:41,119 - INFO - Data fetched for GOOGL, 5157 records obtained.
+2025-02-16 22:42:41,843 - INFO - Data fetched for MSFT, 9809 records obtained.
+2025-02-16 22:42:41,932 - INFO - Data fetched for AAPL, 11135 records obtained.
+2025-02-16 22:45:33,725 - INFO - Fetching data for AAPL
+2025-02-16 22:45:33,725 - INFO - Fetching data for MSFT
+2025-02-16 22:45:33,725 - INFO - Fetching data for GOOGL
+2025-02-16 22:45:34,190 - INFO - Data fetched for GOOGL, 5157 records obtained.
+2025-02-16 22:45:34,254 - INFO - [GOOGL] CSV file updated successfully.
+2025-02-16 22:45:34,259 - INFO - Data fetched for MSFT, 9809 records obtained.
+2025-02-16 22:45:34,392 - INFO - Data fetched for AAPL, 11135 records obtained.
+2025-02-16 22:45:34,445 - INFO - [MSFT] CSV file updated successfully.
+2025-02-16 22:45:34,697 - INFO - [AAPL] CSV file updated successfully.
+2025-02-16 22:45:34,700 - INFO - All tickers updated.
+2025-02-16 22:50:28,312 - INFO - Fetching data for AAPL
+2025-02-16 22:50:28,312 - INFO - Fetching data for MSFT
+2025-02-16 22:50:28,312 - INFO - Fetching data for GOOGL
+2025-02-16 22:50:28,799 - INFO - Data fetched for GOOGL, 5157 records obtained.
+2025-02-16 22:50:28,844 - INFO - Data fetched for MSFT, 9809 records obtained.
+2025-02-16 22:50:29,093 - INFO - Data fetched for AAPL, 11135 records obtained.
+2025-02-16 22:50:29,228 - INFO - [GOOGL] CSV file updated successfully.
+2025-02-16 22:50:29,568 - INFO - [MSFT] CSV file updated successfully.
+2025-02-16 22:50:29,926 - INFO - [AAPL] CSV file updated successfully.
+2025-02-16 22:50:29,928 - INFO - All tickers updated.
+2025-02-16 22:56:16,454 - INFO - Fetching data for AAPL
+2025-02-16 22:56:16,454 - INFO - Fetching data for MSFT
+2025-02-16 22:56:16,454 - INFO - Fetching data for GOOGL
+2025-02-16 22:56:16,926 - INFO - Data fetched for GOOGL, 5157 records obtained.
+2025-02-16 22:56:17,209 - INFO - Data fetched for MSFT, 9809 records obtained.
+2025-02-16 22:56:17,214 - INFO - Data fetched for AAPL, 11135 records obtained.
+2025-02-16 22:56:17,355 - INFO - [GOOGL] CSV file updated successfully.
+2025-02-16 22:56:17,708 - INFO - [MSFT] CSV file updated successfully.
+2025-02-16 22:56:18,050 - INFO - [AAPL] CSV file updated successfully.
+2025-02-16 22:56:18,052 - INFO - All tickers updated.
+2025-02-16 22:56:18,060 - INFO - Final updated data:
+2025-02-16 23:11:47,451 - INFO - Fetching data for AAPL
+2025-02-16 23:11:47,451 - INFO - Fetching data for MSFT
+2025-02-16 23:11:47,451 - INFO - Fetching data for GOOGL
+2025-02-16 23:11:47,878 - INFO - Data fetched for GOOGL, 5157 records obtained.
+2025-02-16 23:11:47,908 - INFO - [GOOGL] CSV file updated successfully.
+2025-02-16 23:11:48,008 - INFO - Data fetched for AAPL, 11135 records obtained.
+2025-02-16 23:11:48,016 - INFO - Data fetched for MSFT, 9809 records obtained.
+2025-02-16 23:11:48,157 - INFO - [AAPL] CSV file updated successfully.
+2025-02-16 23:11:48,432 - INFO - [MSFT] CSV file updated successfully.
+2025-02-16 23:11:48,435 - INFO - All tickers updated.
+2025-02-16 23:11:48,447 - INFO - Final updated data:
+2025-02-16 23:42:10,527 - INFO - Fetching data for AAPL
+2025-02-16 23:42:10,527 - INFO - Fetching data for MSFT
+2025-02-16 23:42:10,527 - INFO - Fetching data for GOOGL
+2025-02-16 23:42:11,164 - INFO - Data fetched for GOOGL, 5157 records obtained.
+2025-02-16 23:42:11,172 - INFO - Data fetched for MSFT, 9809 records obtained.
+2025-02-16 23:42:11,246 - INFO - Data fetched for AAPL, 11135 records obtained.
+2025-02-16 23:42:11,251 - INFO - [GOOGL] CSV file updated successfully.
+2025-02-16 23:42:11,393 - INFO - [MSFT] CSV file updated successfully.
+2025-02-16 23:42:11,673 - INFO - [AAPL] CSV file updated successfully.
+2025-02-16 23:42:11,676 - INFO - All tickers updated.
+2025-02-16 23:42:11,687 - INFO - Final updated data:
+2025-02-17 20:10:34,287 - INFO - Fetching data for AAPL
+2025-02-17 20:10:34,287 - INFO - Fetching data for MSFT
+2025-02-17 20:10:34,288 - INFO - Fetching data for GOOGL
+2025-02-17 20:10:34,797 - INFO - Data fetched for GOOGL, 5157 records obtained.
+2025-02-17 20:10:34,893 - INFO - [GOOGL] CSV file updated successfully.
+2025-02-17 20:10:34,920 - INFO - Data fetched for MSFT, 9809 records obtained.
+2025-02-17 20:10:34,927 - INFO - Data fetched for AAPL, 11135 records obtained.
+2025-02-17 20:10:35,060 - INFO - [MSFT] CSV file updated successfully.
+2025-02-17 20:10:35,334 - INFO - [AAPL] CSV file updated successfully.
+2025-02-17 20:10:35,337 - INFO - All tickers updated.
+2025-02-17 20:10:35,345 - INFO - Final updated data:
+2025-02-19 20:25:55,637 - INFO - Fetching data for AAPL
+2025-02-19 20:25:55,638 - INFO - Fetching data for MSFT
+2025-02-19 20:25:55,638 - INFO - Fetching data for GOOGL
+2025-02-19 20:25:59,436 - INFO - Fetching data for AAPL
+2025-02-19 20:25:59,441 - INFO - Fetching data for GOOGL
+2025-02-19 20:25:59,441 - INFO - Fetching data for MSFT
+2025-02-19 20:26:02,211 - INFO - Fetching data for MSFT
+2025-02-19 20:26:02,213 - INFO - Fetching data for GOOGL
+2025-02-19 20:26:02,213 - INFO - Fetching data for AAPL
+2025-02-19 20:26:06,992 - INFO - Fetching data for GOOGL
+2025-02-19 20:26:06,995 - INFO - Fetching data for AAPL
+2025-02-19 20:26:06,995 - INFO - Fetching data for MSFT
+2025-02-19 20:26:15,740 - INFO - Fetching data for GOOGL
+2025-02-19 20:26:15,745 - INFO - Fetching data for AAPL
+2025-02-19 20:26:15,745 - INFO - Fetching data for MSFT
+2025-02-19 20:26:16,532 - ERROR - [GOOGL] Failed after retries: RetryError[<Future at 0x11a928ed0 state=finished raised YFRateLimitError>]
+2025-02-19 20:26:16,539 - ERROR - [MSFT] Failed after retries: RetryError[<Future at 0x11a92ac50 state=finished raised YFRateLimitError>]
+2025-02-19 20:26:16,539 - ERROR - [AAPL] Failed after retries: RetryError[<Future at 0x11a929bd0 state=finished raised YFRateLimitError>]
+2025-02-19 20:30:10,066 - INFO - Fetching data for AAPL
+2025-02-19 20:30:10,066 - INFO - Fetching data for MSFT
+2025-02-19 20:30:10,066 - INFO - Fetching data for GOOGL
+2025-02-19 20:30:13,323 - INFO - Fetching data for MSFT
+2025-02-19 20:30:13,323 - INFO - Fetching data for GOOGL
+2025-02-19 20:30:13,328 - INFO - Fetching data for AAPL
+2025-02-19 20:30:16,092 - INFO - Fetching data for AAPL
+2025-02-19 20:30:16,096 - INFO - Fetching data for GOOGL
+2025-02-19 20:30:16,098 - INFO - Fetching data for MSFT
+2025-02-19 20:30:21,083 - INFO - Fetching data for GOOGL
+2025-02-19 20:30:21,090 - INFO - Fetching data for MSFT
+2025-02-19 20:30:21,091 - INFO - Fetching data for AAPL
+2025-02-19 20:30:29,880 - INFO - Fetching data for MSFT
+2025-02-19 20:30:29,880 - INFO - Fetching data for GOOGL
+2025-02-19 20:30:29,886 - INFO - Fetching data for AAPL
+2025-02-19 20:30:30,654 - ERROR - [GOOGL] Failed after retries: RetryError[<Future at 0x10aaa7f50 state=finished raised YFRateLimitError>]
+2025-02-19 20:30:30,661 - ERROR - [AAPL] Failed after retries: RetryError[<Future at 0x10aacf750 state=finished raised YFRateLimitError>]
+2025-02-19 20:30:30,663 - ERROR - [MSFT] Failed after retries: RetryError[<Future at 0x10631f010 state=finished raised YFRateLimitError>]
+2025-02-19 20:30:30,664 - ERROR - No ticker data returned from any task.
+2025-02-19 20:30:30,668 - INFO - Final updated data:
+2025-02-19 20:31:00,275 - INFO - Fetching data for AAPL
+2025-02-19 20:31:00,275 - INFO - Fetching data for MSFT
+2025-02-19 20:31:00,275 - INFO - Fetching data for GOOGL
+2025-02-19 20:31:03,432 - INFO - Fetching data for GOOGL
+2025-02-19 20:31:03,432 - INFO - Fetching data for AAPL
+2025-02-19 20:31:03,433 - INFO - Fetching data for MSFT
+2025-02-19 20:31:06,330 - INFO - Fetching data for GOOGL
+2025-02-19 20:31:06,331 - INFO - Fetching data for MSFT
+2025-02-19 20:31:06,332 - INFO - Fetching data for AAPL
+2025-02-19 20:31:11,077 - INFO - Fetching data for GOOGL
+2025-02-19 20:31:11,078 - INFO - Fetching data for MSFT
+2025-02-19 20:31:11,078 - INFO - Fetching data for AAPL
+2025-02-19 20:31:19,849 - INFO - Fetching data for GOOGL
+2025-02-19 20:31:19,851 - INFO - Fetching data for MSFT
+2025-02-19 20:31:19,855 - INFO - Fetching data for AAPL
+2025-02-19 20:31:20,630 - ERROR - [MSFT] Failed after retries: RetryError[<Future at 0x10ec2a310 state=finished raised YFRateLimitError>]
+2025-02-19 20:31:20,640 - ERROR - [GOOGL] Failed after retries: RetryError[<Future at 0x10f37cc50 state=finished raised YFRateLimitError>]
+2025-02-19 20:31:20,641 - ERROR - [AAPL] Failed after retries: RetryError[<Future at 0x10ec55850 state=finished raised YFRateLimitError>]
+2025-02-19 20:31:20,641 - ERROR - No ticker data returned from any task.
+2025-02-19 20:31:20,649 - INFO - Final updated data:
+2025-02-19 20:36:39,294 - INFO - Fetching data for AAPL
+2025-02-19 20:36:39,294 - INFO - Fetching data for MSFT
+2025-02-19 20:36:39,294 - INFO - Fetching data for GOOGL
+2025-02-19 20:36:42,720 - ERROR - Unexpected error fetching AAPL: Too Many Requests. Rate limited. Try after a while.
+2025-02-19 20:36:42,725 - ERROR - Unexpected error fetching MSFT: Too Many Requests. Rate limited. Try after a while.
+2025-02-19 20:36:42,725 - ERROR - Unexpected error fetching GOOGL: Too Many Requests. Rate limited. Try after a while.
+2025-02-19 20:37:42,731 - INFO - Fetching data for AAPL
+2025-02-19 20:37:42,732 - INFO - Fetching data for MSFT
+2025-02-19 20:37:42,732 - INFO - Fetching data for GOOGL
+2025-02-19 20:37:45,717 - ERROR - Unexpected error fetching GOOGL: Too Many Requests. Rate limited. Try after a while.
+2025-02-19 20:37:45,717 - ERROR - Unexpected error fetching MSFT: Too Many Requests. Rate limited. Try after a while.
+2025-02-19 20:37:45,718 - ERROR - Unexpected error fetching AAPL: Too Many Requests. Rate limited. Try after a while.
+2025-02-19 20:39:45,697 - INFO - Fetching data for MSFT
+2025-02-19 20:39:45,698 - INFO - Fetching data for AAPL
+2025-02-19 20:39:45,698 - INFO - Fetching data for GOOGL
+2025-02-19 20:39:48,847 - ERROR - Unexpected error fetching GOOGL: Too Many Requests. Rate limited. Try after a while.
+2025-02-19 20:39:48,850 - ERROR - [GOOGL] Failed after retries: RetryError[<Future at 0x10b057b10 state=finished raised YFRateLimitError>]
+2025-02-19 20:39:48,872 - ERROR - Unexpected error fetching AAPL: Too Many Requests. Rate limited. Try after a while.
+2025-02-19 20:39:48,876 - ERROR - [AAPL] Failed after retries: RetryError[<Future at 0x10ad9a5d0 state=finished raised YFRateLimitError>]
+2025-02-19 20:39:48,896 - ERROR - Unexpected error fetching MSFT: Too Many Requests. Rate limited. Try after a while.
+2025-02-19 20:39:48,897 - ERROR - [MSFT] Failed after retries: RetryError[<Future at 0x10a53c390 state=finished raised YFRateLimitError>]
+2025-02-19 20:39:48,897 - ERROR - No ticker data returned from any task.
+2025-02-19 20:39:48,901 - INFO - Final updated data:
+2025-02-19 21:45:03,154 - INFO - Fetching data for AAPL
+2025-02-19 21:45:03,154 - INFO - Fetching data for MSFT
+2025-02-19 21:45:03,154 - INFO - Fetching data for GOOGL
+2025-02-19 21:45:05,648 - INFO - Data fetched for GOOGL, 5159 records obtained.
+2025-02-19 21:45:05,715 - INFO - Data fetched for MSFT, 9811 records obtained.
+2025-02-19 21:45:05,990 - INFO - Data fetched for AAPL, 11137 records obtained.
+2025-02-19 21:45:05,991 - INFO - Starting data cleaning and feature calculation
+2025-02-19 21:45:06,004 - INFO - Calculated Daily Returns
+2025-02-19 21:45:06,008 - INFO - Calculated Volatility
+2025-02-19 21:45:06,130 - INFO - Feature calculation summary:
+2025-02-19 21:45:06,141 - INFO - 
+       Daily Return    Volatility
+count  26103.000000  26103.000000
+mean       0.001092      0.020109
+std        0.023845      0.013047
+min       -0.518692      0.001171
+25%       -0.010136      0.011415
+50%        0.000390      0.017077
+75%        0.012174      0.025270
+max        0.332280      0.204014
+2025-02-19 21:45:06,145 - INFO - Null value counts after cleaning:
+Date               0
+Open               0
+High               0
+Low                0
+Close              0
+Volume             0
+Dividends          0
+Stock Splits       0
+Ticker             0
+Daily Return       0
+Volatility         0
+Price_Range        0
+Price_Range_Pct    0
+Volume_Change      0
+2025-02-19 21:45:06,340 - INFO - [GOOGL] CSV file updated successfully.
+2025-02-19 21:45:06,583 - INFO - Starting data cleaning and feature calculation
+2025-02-19 21:45:06,594 - INFO - Calculated Daily Returns
+2025-02-19 21:45:06,597 - INFO - Calculated Volatility
+2025-02-19 21:45:06,654 - INFO - Feature calculation summary:
+2025-02-19 21:45:06,657 - INFO - 
+       Daily Return    Volatility
+count  26105.000000  26105.000000
+mean       0.001093      0.020108
+std        0.023844      0.013047
+min       -0.518692      0.001171
+25%       -0.010132      0.011412
+50%        0.000390      0.017075
+75%        0.012179      0.025270
+max        0.332280      0.204014
+2025-02-19 21:45:06,659 - INFO - Null value counts after cleaning:
+Date               0
+Open               0
+High               0
+Low                0
+Close              0
+Volume             0
+Dividends          0
+Stock Splits       0
+Ticker             0
+Daily Return       0
+Volatility         0
+Price_Range        0
+Price_Range_Pct    0
+Volume_Change      0
+2025-02-19 21:45:06,850 - INFO - [MSFT] CSV file updated successfully.
+2025-02-19 21:45:07,110 - INFO - Starting data cleaning and feature calculation
+2025-02-19 21:45:07,148 - INFO - Calculated Daily Returns
+2025-02-19 21:45:07,151 - INFO - Calculated Volatility
+2025-02-19 21:45:07,212 - INFO - Feature calculation summary:
+2025-02-19 21:45:07,215 - INFO - 
+       Daily Return    Volatility
+count  26107.000000  26107.000000
+mean       0.001093      0.020107
+std        0.023843      0.013046
+min       -0.518692      0.001171
+25%       -0.010127      0.011412
+50%        0.000391      0.017075
+75%        0.012174      0.025268
+max        0.332281      0.204014
+2025-02-19 21:45:07,217 - INFO - Null value counts after cleaning:
+Date               0
+Open               0
+High               0
+Low                0
+Close              0
+Volume             0
+Dividends          0
+Stock Splits       0
+Ticker             0
+Daily Return       0
+Volatility         0
+Price_Range        0
+Price_Range_Pct    0
+Volume_Change      0
+2025-02-19 21:45:07,409 - INFO - [AAPL] CSV file updated successfully.
+2025-02-19 21:45:07,411 - INFO - All tickers updated.
+2025-02-19 21:45:07,420 - INFO - Final updated data:
+2025-02-19 21:49:45,164 - INFO - Fetching data for AAPL
+2025-02-19 21:49:45,165 - INFO - Fetching data for MSFT
+2025-02-19 21:49:45,165 - INFO - Fetching data for GOOGL
+2025-02-19 21:49:47,624 - INFO - Data fetched for GOOGL, 5159 records obtained.
+2025-02-19 21:49:47,940 - INFO - Data fetched for MSFT, 9811 records obtained.
+2025-02-19 21:49:47,945 - INFO - Data fetched for AAPL, 11137 records obtained.
+2025-02-19 21:49:47,977 - INFO - Initial null value counts:
+Date                  0
+Open                  0
+High                  0
+Low                   0
+Close                 0
+Volume                0
+Dividends             0
+Stock Splits          0
+Ticker                0
+Daily Return       5159
+Volatility         5159
+Price_Range        5159
+Price_Range_Pct    5159
+Volume_Change      5159
+2025-02-19 21:49:47,996 - ERROR - Error in calculate_returns_and_volatility: incompatible index of inserted column with frame index
+2025-02-19 21:49:47,996 - ERROR - Error in clean_dataset: incompatible index of inserted column with frame index
+2025-02-19 21:49:47,996 - ERROR - [GOOGL] Error updating CSV multi_stock_data.csv: incompatible index of inserted column with frame index
+2025-02-19 21:49:48,263 - INFO - Initial null value counts:
+Date                  0
+Open                  0
+High                  0
+Low                   0
+Close                 0
+Volume                0
+Dividends             0
+Stock Splits          0
+Ticker                0
+Daily Return       9811
+Volatility         9811
+Price_Range        9811
+Price_Range_Pct    9811
+Volume_Change      9811
+2025-02-19 21:49:48,280 - ERROR - Error in calculate_returns_and_volatility: incompatible index of inserted column with frame index
+2025-02-19 21:49:48,280 - ERROR - Error in clean_dataset: incompatible index of inserted column with frame index
+2025-02-19 21:49:48,280 - ERROR - [MSFT] Error updating CSV multi_stock_data.csv: incompatible index of inserted column with frame index
+2025-02-19 21:49:48,537 - INFO - Initial null value counts:
+Date                   0
+Open                   0
+High                   0
+Low                    0
+Close                  0
+Volume                 0
+Dividends              0
+Stock Splits           0
+Ticker                 0
+Daily Return       11137
+Volatility         11137
+Price_Range        11137
+Price_Range_Pct    11137
+Volume_Change      11137
+2025-02-19 21:49:48,581 - ERROR - Error in calculate_returns_and_volatility: incompatible index of inserted column with frame index
+2025-02-19 21:49:48,581 - ERROR - Error in clean_dataset: incompatible index of inserted column with frame index
+2025-02-19 21:49:48,581 - ERROR - [AAPL] Error updating CSV multi_stock_data.csv: incompatible index of inserted column with frame index
+2025-02-19 21:49:48,583 - ERROR - No ticker data returned from any task.
+2025-02-19 21:49:48,585 - INFO - Final updated data:
+2025-02-19 21:51:19,443 - INFO - Fetching data for AAPL
+2025-02-19 21:51:19,443 - INFO - Fetching data for MSFT
+2025-02-19 21:51:19,443 - INFO - Fetching data for GOOGL
+2025-02-19 21:51:21,867 - INFO - Data fetched for GOOGL, 5159 records obtained.
+2025-02-19 21:51:22,220 - INFO - Data fetched for AAPL, 11137 records obtained.
+2025-02-19 21:51:22,226 - INFO - Data fetched for MSFT, 9811 records obtained.
+2025-02-19 21:51:22,238 - INFO - Starting data cleaning and feature calculation
+2025-02-19 21:51:22,240 - INFO - Initial null value counts:
+Date                  0
+Open                  0
+High                  0
+Low                   0
+Close                 0
+Volume                0
+Dividends             0
+Stock Splits          0
+Ticker                0
+Daily Return       5159
+Volatility         5159
+Price_Range        5159
+Price_Range_Pct    5159
+Volume_Change      5159
+2025-02-19 21:51:22,287 - INFO - Successfully calculated all metrics
+2025-02-19 21:51:22,287 - INFO - DataFrame shape after calculations: (26107, 21)
+2025-02-19 21:51:22,288 - INFO - Feature calculation summary:
+2025-02-19 21:51:22,291 - INFO - 
+       Daily Return    Volatility
+count  26107.000000  26107.000000
+mean       0.001093      0.020107
+std        0.023843      0.013046
+min       -0.518692      0.001171
+25%       -0.010127      0.011412
+50%        0.000391      0.017075
+75%        0.012174      0.025268
+max        0.332281      0.204014
+2025-02-19 21:51:22,294 - INFO - Null value counts after cleaning:
+Date                  0
+Open                  0
+High                  0
+Low                   0
+Close                 0
+Volume                0
+Dividends             0
+Stock Splits          0
+Ticker                0
+Daily Return          0
+Volatility            0
+Price_Range           0
+Price_Range_Pct       0
+Volume_Change         0
+Log Return            0
+Volatility_7d         0
+Volatility_7d_Ann     0
+Volatility_14d        0
+Volatility_14d_Ann    0
+Volatility_30d        0
+Volatility_30d_Ann    0
+2025-02-19 21:51:22,599 - INFO - [GOOGL] CSV file updated successfully.
+2025-02-19 21:51:22,887 - INFO - Starting data cleaning and feature calculation
+2025-02-19 21:51:22,888 - INFO - Initial null value counts:
+Date                      0
+Open                      0
+High                      0
+Low                       0
+Close                     0
+Volume                    0
+Dividends                 0
+Stock Splits              0
+Ticker                    0
+Daily Return          11137
+Volatility            11137
+Price_Range           11137
+Price_Range_Pct       11137
+Volume_Change         11137
+Log Return            11137
+Volatility_7d         11137
+Volatility_7d_Ann     11137
+Volatility_14d        11137
+Volatility_14d_Ann    11137
+Volatility_30d        11137
+Volatility_30d_Ann    11137
+2025-02-19 21:51:22,963 - INFO - Successfully calculated all metrics
+2025-02-19 21:51:22,964 - INFO - DataFrame shape after calculations: (26107, 21)
+2025-02-19 21:51:22,964 - INFO - Feature calculation summary:
+2025-02-19 21:51:22,967 - INFO - 
+       Daily Return    Volatility
+count  26107.000000  26107.000000
+mean       0.001093      0.020107
+std        0.023843      0.013046
+min       -0.518692      0.001171
+25%       -0.010127      0.011412
+50%        0.000391      0.017075
+75%        0.012174      0.025268
+max        0.332281      0.204014
+2025-02-19 21:51:22,970 - INFO - Null value counts after cleaning:
+Date                  0
+Open                  0
+High                  0
+Low                   0
+Close                 0
+Volume                0
+Dividends             0
+Stock Splits          0
+Ticker                0
+Daily Return          0
+Volatility            0
+Price_Range           0
+Price_Range_Pct       0
+Volume_Change         0
+Log Return            0
+Volatility_7d         0
+Volatility_7d_Ann     0
+Volatility_14d        0
+Volatility_14d_Ann    0
+Volatility_30d        0
+Volatility_30d_Ann    0
+2025-02-19 21:51:23,348 - INFO - [AAPL] CSV file updated successfully.
+2025-02-19 21:51:23,645 - INFO - Starting data cleaning and feature calculation
+2025-02-19 21:51:23,646 - INFO - Initial null value counts:
+Date                     0
+Open                     0
+High                     0
+Low                      0
+Close                    0
+Volume                   0
+Dividends                0
+Stock Splits             0
+Ticker                   0
+Daily Return          9811
+Volatility            9811
+Price_Range           9811
+Price_Range_Pct       9811
+Volume_Change         9811
+Log Return            9811
+Volatility_7d         9811
+Volatility_7d_Ann     9811
+Volatility_14d        9811
+Volatility_14d_Ann    9811
+Volatility_30d        9811
+Volatility_30d_Ann    9811
+2025-02-19 21:51:23,694 - INFO - Successfully calculated all metrics
+2025-02-19 21:51:23,694 - INFO - DataFrame shape after calculations: (26107, 21)
+2025-02-19 21:51:23,695 - INFO - Feature calculation summary:
+2025-02-19 21:51:23,698 - INFO - 
+       Daily Return    Volatility
+count  26107.000000  26107.000000
+mean       0.001093      0.020107
+std        0.023843      0.013046
+min       -0.518692      0.001171
+25%       -0.010126      0.011412
+50%        0.000391      0.017075
+75%        0.012174      0.025268
+max        0.332281      0.204014
+2025-02-19 21:51:23,700 - INFO - Null value counts after cleaning:
+Date                  0
+Open                  0
+High                  0
+Low                   0
+Close                 0
+Volume                0
+Dividends             0
+Stock Splits          0
+Ticker                0
+Daily Return          0
+Volatility            0
+Price_Range           0
+Price_Range_Pct       0
+Volume_Change         0
+Log Return            0
+Volatility_7d         0
+Volatility_7d_Ann     0
+Volatility_14d        0
+Volatility_14d_Ann    0
+Volatility_30d        0
+Volatility_30d_Ann    0
+2025-02-19 21:51:24,000 - INFO - [MSFT] CSV file updated successfully.
+2025-02-19 21:51:24,002 - INFO - All tickers updated.
+2025-02-19 21:51:24,016 - INFO - Final updated data:
